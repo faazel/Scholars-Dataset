@@ -3,4 +3,4 @@ This jupyter notebook is to make a list of dataframes, containing a scholar's pu
 
 Note that I've used a library based on Scopus API and you should have acces to scopus (via you institute for instance)
 
-I have used ISID scraping to retrive the scholars names of my faculty. you may consider another way.
+I have used ISID scraping to retrive the scholars's names of my faculty. you may consider another way.
